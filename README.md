@@ -26,7 +26,7 @@ EXPECTED OUTPUT:
 
 Personal Productivity Assistant Features:
 
-1. Daily Task Manager:
+**1. Daily Task Manager:**
 
 Accept tasks via natural language (e.g., "Remind me to call mom at 6 PM").
 
@@ -34,23 +34,25 @@ Organize tasks by priority and deadline.
 
 Provide daily summaries and pending items.
 
-2. Smart Scheduler:
+**2. Smart Scheduler:**
 
 Schedule events and set reminders using contextual understanding.
 
 Notify user of overlapping appointments or free time slots.
 
-3. Wellness Tips Generator:
+**3. Wellness Tips Generator:**
 
 Suggest daily wellness advice (hydration, exercise, screen-time breaks).
 
 Adapt suggestions based on past user preferences and responses.
 
+
+
 Output (Example Response by LLM):
 
 Daily Task Manager:
 
-Input to AI:
+**Input to AI:**
 
 Current Schedule: 9 AM team meeting, 11 AM research work, 2 PM client call, 4 PM gym.
 
@@ -58,7 +60,7 @@ Priorities: Research work, preparing notes.
 
 Canceled Tasks: 9 AM meeting, 2 PM client call.
 
-AI Response (Reorganized Agenda):
+**AI Response (Reorganized Agenda):**
 
 9:00–10:30 AM: Deep work on research report (use freed-up meeting time).
 
