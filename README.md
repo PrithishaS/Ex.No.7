@@ -1,10 +1,16 @@
 # Exno.7-Develop a prompt-based application tailored to their personal needs, fostering creativity and practical problem-solving skills while leveraging the capabilities of large language models.
 
-# Date:
-# Register no.
+# Date:19/09/2025
+# Register no: 212222210020
 # Aim: To develop a prompt-based application using ChatGPT - To demonstrate how to create a prompt-based application to organize daily tasks, showing the progression from simple to more advanced prompt designs and their corresponding outputs.
 
 #AI Tools Required: 
+
+ 1.ChatGPT (or any Large Language Model with prompt engineering support)
+
+ 2.Simple user interface (command line, chatbot interface, or web app)
+
+ 3.(Optional) Calendar/task manager integration for automation
 
 
 # Explanation: 
@@ -16,19 +22,61 @@ Procedure:
 3. Simulate natural user interaction through a simple interface or command-line system.
 4. Collect feedback or inputs from users and adapt responses accordingly.
 5. (Optional) Integrate basic memory to simulate preference adaptation.
-EXPECTED OUTPUT: - (attached the drive link)
-Output (Example Response by LLM):
+EXPECTED OUTPUT:
+
 Personal Productivity Assistant Features:
+
 1. Daily Task Manager:
-o Accept tasks via natural language (e.g., "Remind me to call mom at 6 PM").
-o Organize tasks by priority and deadline.
-o Provide daily summaries and pending items.
+
+Accept tasks via natural language (e.g., "Remind me to call mom at 6 PM").
+
+Organize tasks by priority and deadline.
+
+Provide daily summaries and pending items.
+
 2. Smart Scheduler:
-o Schedule events and set reminders using contextual understanding.
-o Notify user of overlapping appointments or free time slots.
+
+Schedule events and set reminders using contextual understanding.
+
+Notify user of overlapping appointments or free time slots.
+
 3. Wellness Tips Generator:
-o Suggest daily wellness advice (hydration, exercise, screen-time breaks).
-o Adapt suggestions based on past user preferences and responses.
+
+Suggest daily wellness advice (hydration, exercise, screen-time breaks).
+
+Adapt suggestions based on past user preferences and responses.
+
+Output (Example Response by LLM):
+
+Daily Task Manager:
+
+Input to AI:
+
+Current Schedule: 9 AM team meeting, 11 AM research work, 2 PM client call, 4 PM gym.
+
+Priorities: Research work, preparing notes.
+
+Canceled Tasks: 9 AM meeting, 2 PM client call.
+
+AI Response (Reorganized Agenda):
+
+9:00–10:30 AM: Deep work on research report (use freed-up meeting time).
+
+10:30–12:00 PM: Continue simulation work.
+
+12:00–1:00 PM: Lunch.
+
+1:00–2:00 PM: Catch up on emails and minor admin tasks.
+
+2:00–3:30 PM: Focus block for preparing notes.
+
+3:30–4:00 PM: Short wellness break (walk, hydration).
+
+4:00–5:00 PM: Gym session.
+
+Optional (5:30–6:00 PM): Journaling or creative idea capture session.
+
+Wellness Tip: Since tasks were canceled, use the extra time for a short outdoor walk before starting afternoon focus work
 
 
 
